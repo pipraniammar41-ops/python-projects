@@ -1,0 +1,50 @@
+                main.py
+                    │
+                    ▼
+          --------------------
+          |                  |
+      Customer           Admin
+          |                  |
+          ▼                  ▼
+      Restaurants      Add Restaurant
+          |
+          ▼
+       Food Items
+          |
+          ▼
+         Cart
+          |
+          ▼
+        Order
+
+
+
+Authentication ✅
+
+↓
+
+Restaurant
+
+↓
+
+Food Item
+
+↓
+
+Customer Dashboard
+
+↓
+
+Cart
+
+↓
+
+Order
+
+↓
+
+Payment
+
+↓
+
+Admin Dashboard
